@@ -9,7 +9,8 @@ The `StrategyGame` smart contract is a blockchain-based platform designed to tea
 **Contract Address:**
 0xEB8183B6aeD9e91c28F7e5c81a1E9d36ca7Da364
 
-![{36BEE998-960A-49AE-B0ED-9DF2DED8CF18}](https://github.com/user-attachments/assets/12043053-9e28-4755-93ed-937390d498c5)
+![{66B8AA65-9D20-43C0-80B1-238C87F1F921}](https://github.com/user-attachments/assets/4264ee0c-f0de-407f-9ae4-6f4f89033cd2)
+
 
 
 

@@ -9,6 +9,9 @@ The `StrategyGame` smart contract is a blockchain-based platform designed to tea
 **Contract Address:**
 0xEB8183B6aeD9e91c28F7e5c81a1E9d36ca7Da364
 
+![{36BEE998-960A-49AE-B0ED-9DF2DED8CF18}](https://github.com/user-attachments/assets/12043053-9e28-4755-93ed-937390d498c5)
+
+
 
 ## Project Vision
 Our vision is to revolutionize education through gamification. By merging entertainment with practical learning, we aim to empower individuals with critical life skills while maintaining fairness, security, and transparency through blockchain technology.
